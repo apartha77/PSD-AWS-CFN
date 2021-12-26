@@ -1,3 +1,4 @@
-# PSD-AWS-CFN
-Test the integration between vs and git..
-test... t1
+# PSD-AWS-CNF
+All my AWS CNF Templates
+I will upload all my CNF Templates which I intend to use
+uploading in github
